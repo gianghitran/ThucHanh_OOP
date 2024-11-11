@@ -1,0 +1,4 @@
+﻿  NgayThangNam.cpp
+D:\Documents\Nam2\OOP\TH_OOP\Lab3\23521005_BTTL_Lab3_BT4\23521005_BTTL_Lab3_BT4\NgayThangNam.cpp(107,1): error C2059: syntax error: 'constant'
+D:\Documents\Nam2\OOP\TH_OOP\Lab3\23521005_BTTL_Lab3_BT4\23521005_BTTL_Lab3_BT4\NgayThangNam.cpp(109,42): error C2143: syntax error: missing ';' before '{'
+D:\Documents\Nam2\OOP\TH_OOP\Lab3\23521005_BTTL_Lab3_BT4\23521005_BTTL_Lab3_BT4\NgayThangNam.cpp(109,42): error C2447: '{': missing function header (old-style formal list?)

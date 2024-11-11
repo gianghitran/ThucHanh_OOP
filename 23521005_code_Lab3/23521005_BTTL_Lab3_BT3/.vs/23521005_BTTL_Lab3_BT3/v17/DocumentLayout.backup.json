@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{084DEAD9-55CF-467F-AA94-3391FF8960CC}|23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3.vcxproj|D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084DEAD9-55CF-467F-AA94-3391FF8960CC}|23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3.vcxproj|solutionrelative:23521005_BTTL_Lab3_BT3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084DEAD9-55CF-467F-AA94-3391FF8960CC}|23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3.vcxproj|D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3\\ThoiGian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084DEAD9-55CF-467F-AA94-3391FF8960CC}|23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3.vcxproj|solutionrelative:23521005_BTTL_Lab3_BT3\\ThoiGian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084DEAD9-55CF-467F-AA94-3391FF8960CC}|23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3.vcxproj|D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3\\ThoiGian.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084DEAD9-55CF-467F-AA94-3391FF8960CC}|23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3.vcxproj|solutionrelative:23521005_BTTL_Lab3_BT3\\ThoiGian.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 372,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThoiGian.cpp",
+              "DocumentMoniker": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3\\ThoiGian.cpp",
+              "RelativeDocumentMoniker": "23521005_BTTL_Lab3_BT3\\ThoiGian.cpp",
+              "ToolTip": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3\\ThoiGian.cpp",
+              "RelativeToolTip": "23521005_BTTL_Lab3_BT3\\ThoiGian.cpp",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAqwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T16:33:27.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThoiGian.h",
+              "DocumentMoniker": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3\\ThoiGian.h",
+              "RelativeDocumentMoniker": "23521005_BTTL_Lab3_BT3\\ThoiGian.h",
+              "ToolTip": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3\\ThoiGian.h",
+              "RelativeToolTip": "23521005_BTTL_Lab3_BT3\\ThoiGian.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T16:25:09.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3\\main.cpp",
+              "RelativeDocumentMoniker": "23521005_BTTL_Lab3_BT3\\main.cpp",
+              "ToolTip": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT3\\23521005_BTTL_Lab3_BT3\\main.cpp",
+              "RelativeToolTip": "23521005_BTTL_Lab3_BT3\\main.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T16:24:53.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

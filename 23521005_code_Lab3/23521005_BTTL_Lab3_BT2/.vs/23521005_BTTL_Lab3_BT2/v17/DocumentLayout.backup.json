@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93129247-D9B8-4423-95C6-EC1F233A98F3}|23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2.vcxproj|D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2\\SoPhuc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93129247-D9B8-4423-95C6-EC1F233A98F3}|23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2.vcxproj|solutionrelative:23521005_BTTL_Lab3_BT2\\SoPhuc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93129247-D9B8-4423-95C6-EC1F233A98F3}|23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2.vcxproj|D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2\\SoPhuc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93129247-D9B8-4423-95C6-EC1F233A98F3}|23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2.vcxproj|solutionrelative:23521005_BTTL_Lab3_BT2\\SoPhuc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93129247-D9B8-4423-95C6-EC1F233A98F3}|23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2.vcxproj|D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93129247-D9B8-4423-95C6-EC1F233A98F3}|23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2.vcxproj|solutionrelative:23521005_BTTL_Lab3_BT2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 372,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoPhuc.cpp",
+              "DocumentMoniker": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2\\SoPhuc.cpp",
+              "RelativeDocumentMoniker": "23521005_BTTL_Lab3_BT2\\SoPhuc.cpp",
+              "ToolTip": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2\\SoPhuc.cpp",
+              "RelativeToolTip": "23521005_BTTL_Lab3_BT2\\SoPhuc.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T14:33:43.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoPhuc.h",
+              "DocumentMoniker": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2\\SoPhuc.h",
+              "RelativeDocumentMoniker": "23521005_BTTL_Lab3_BT2\\SoPhuc.h",
+              "ToolTip": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2\\SoPhuc.h",
+              "RelativeToolTip": "23521005_BTTL_Lab3_BT2\\SoPhuc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T14:27:28.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2\\main.cpp",
+              "RelativeDocumentMoniker": "23521005_BTTL_Lab3_BT2\\main.cpp",
+              "ToolTip": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT2\\23521005_BTTL_Lab3_BT2\\main.cpp",
+              "RelativeToolTip": "23521005_BTTL_Lab3_BT2\\main.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T14:26:29.33Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

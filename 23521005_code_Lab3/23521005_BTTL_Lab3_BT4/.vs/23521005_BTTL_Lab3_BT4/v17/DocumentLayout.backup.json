@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2C46BF-6996-441D-BF29-07F6CA5C9F4F}|23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4.vcxproj|D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4\\NgayThangNam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2C46BF-6996-441D-BF29-07F6CA5C9F4F}|23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4.vcxproj|solutionrelative:23521005_BTTL_Lab3_BT4\\NgayThangNam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2C46BF-6996-441D-BF29-07F6CA5C9F4F}|23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4.vcxproj|D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2C46BF-6996-441D-BF29-07F6CA5C9F4F}|23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4.vcxproj|solutionrelative:23521005_BTTL_Lab3_BT4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2C46BF-6996-441D-BF29-07F6CA5C9F4F}|23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4.vcxproj|D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4\\NgayThangNam.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2C46BF-6996-441D-BF29-07F6CA5C9F4F}|23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4.vcxproj|solutionrelative:23521005_BTTL_Lab3_BT4\\NgayThangNam.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 583,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NgayThangNam.cpp",
+              "DocumentMoniker": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4\\NgayThangNam.cpp",
+              "RelativeDocumentMoniker": "23521005_BTTL_Lab3_BT4\\NgayThangNam.cpp",
+              "ToolTip": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4\\NgayThangNam.cpp",
+              "RelativeToolTip": "23521005_BTTL_Lab3_BT4\\NgayThangNam.cpp",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T14:27:14.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4\\main.cpp",
+              "RelativeDocumentMoniker": "23521005_BTTL_Lab3_BT4\\main.cpp",
+              "ToolTip": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4\\main.cpp",
+              "RelativeToolTip": "23521005_BTTL_Lab3_BT4\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T17:13:16.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NgayThangNam.h",
+              "DocumentMoniker": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4\\NgayThangNam.h",
+              "RelativeDocumentMoniker": "23521005_BTTL_Lab3_BT4\\NgayThangNam.h",
+              "ToolTip": "D:\\Documents\\Nam2\\OOP\\TH_OOP\\Lab3\\23521005_BTTL_Lab3_BT4\\23521005_BTTL_Lab3_BT4\\NgayThangNam.h",
+              "RelativeToolTip": "23521005_BTTL_Lab3_BT4\\NgayThangNam.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-07T03:45:42.047Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 161,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
